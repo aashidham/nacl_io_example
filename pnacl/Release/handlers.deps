@@ -1,0 +1,42 @@
+# Updated by fix_deps.py
+pnacl/Release/handlers.o: handlers.c handlers.h \
+  /home/ubuntu/nacl_sdk/pepper_49/include/ppapi/c/pp_var.h \
+  /home/ubuntu/nacl_sdk/pepper_49/include/ppapi/c/pp_bool.h \
+  /home/ubuntu/nacl_sdk/pepper_49/include/ppapi/c/pp_macros.h \
+  /home/ubuntu/nacl_sdk/pepper_49/include/ppapi/c/pp_stdint.h \
+  /home/ubuntu/nacl_sdk/pepper_49/include/pnacl/arpa/inet.h \
+  /home/ubuntu/nacl_sdk/pepper_49/include/pnacl/netdb.h \
+  /home/ubuntu/nacl_sdk/pepper_49/include/pnacl/netinet/in.h \
+  /home/ubuntu/nacl_sdk/pepper_49/include/pnacl/netinet6/in6.h \
+  /home/ubuntu/nacl_sdk/pepper_49/include/pnacl/sys/socket.h \
+  /home/ubuntu/nacl_sdk/pepper_49/include/nacl_io/osdirent.h \
+  /home/ubuntu/nacl_sdk/pepper_49/include/nacl_io/osinttypes.h \
+  nacl_io_demo.h \
+  /home/ubuntu/nacl_sdk/pepper_49/include/ppapi/c/pp_instance.h \
+  /home/ubuntu/nacl_sdk/pepper_49/include/ppapi/c/ppb_var.h \
+  /home/ubuntu/nacl_sdk/pepper_49/include/ppapi/c/pp_module.h \
+  /home/ubuntu/nacl_sdk/pepper_49/include/ppapi/c/pp_resource.h \
+  /home/ubuntu/nacl_sdk/pepper_49/include/ppapi/c/ppb_var_array.h \
+  /home/ubuntu/nacl_sdk/pepper_49/include/ppapi/c/ppb_var_dictionary.h \
+  /home/ubuntu/nacl_sdk/pepper_49/include/sdk_util/macros.h
+handlers.c:
+handlers.h:
+/home/ubuntu/nacl_sdk/pepper_49/include/ppapi/c/pp_var.h:
+/home/ubuntu/nacl_sdk/pepper_49/include/ppapi/c/pp_bool.h:
+/home/ubuntu/nacl_sdk/pepper_49/include/ppapi/c/pp_macros.h:
+/home/ubuntu/nacl_sdk/pepper_49/include/ppapi/c/pp_stdint.h:
+/home/ubuntu/nacl_sdk/pepper_49/include/pnacl/arpa/inet.h:
+/home/ubuntu/nacl_sdk/pepper_49/include/pnacl/netdb.h:
+/home/ubuntu/nacl_sdk/pepper_49/include/pnacl/netinet/in.h:
+/home/ubuntu/nacl_sdk/pepper_49/include/pnacl/netinet6/in6.h:
+/home/ubuntu/nacl_sdk/pepper_49/include/pnacl/sys/socket.h:
+/home/ubuntu/nacl_sdk/pepper_49/include/nacl_io/osdirent.h:
+/home/ubuntu/nacl_sdk/pepper_49/include/nacl_io/osinttypes.h:
+nacl_io_demo.h:
+/home/ubuntu/nacl_sdk/pepper_49/include/ppapi/c/pp_instance.h:
+/home/ubuntu/nacl_sdk/pepper_49/include/ppapi/c/ppb_var.h:
+/home/ubuntu/nacl_sdk/pepper_49/include/ppapi/c/pp_module.h:
+/home/ubuntu/nacl_sdk/pepper_49/include/ppapi/c/pp_resource.h:
+/home/ubuntu/nacl_sdk/pepper_49/include/ppapi/c/ppb_var_array.h:
+/home/ubuntu/nacl_sdk/pepper_49/include/ppapi/c/ppb_var_dictionary.h:
+/home/ubuntu/nacl_sdk/pepper_49/include/sdk_util/macros.h:
